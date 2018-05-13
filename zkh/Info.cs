@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace zkh
 {
-    public partial class Form1 : Form
+    public partial class Info : Form
     {
-        public Form1()
+        public Info()
         {
             InitializeComponent();
         }
